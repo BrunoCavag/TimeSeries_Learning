@@ -129,6 +129,7 @@ dmypy.json
 *.zip
 *.csv.zip
 *.txt
+*.csv
 
 # Pyre type checker
 .pyre/
